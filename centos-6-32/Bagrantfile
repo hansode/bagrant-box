@@ -11,7 +11,7 @@ distro_ver  = 6
 keepcache   = 0
 selinux     = 0
 
-hostname    = bagrant
+hostname    = centos6
 
 rootpass    = root
 devel_user  = bagrant
