@@ -17,7 +17,7 @@ selinux=0
 
 hostname=sl6
 
-rootpass=root
+rootpass= # must be empty to lock account
 devel_user=bagrant
 devel_pass=bagrant
 
